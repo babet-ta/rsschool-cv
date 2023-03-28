@@ -68,3 +68,17 @@ function getValue(hexColor) {
 	return Math.max(r,g,b);
 }
 ```
+
+---
+
+### Courses:
+
+- [ITGirlsSchool](https://itgirlschool.com/) Frontend Course (in progress)<br>
+- RS School Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+
+### Languages:
+
+- English \- Upper-intermediate
+- Russian \- Native
