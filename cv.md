@@ -1,5 +1,5 @@
 # Elizaveta Vopilova
-### Junior Frontend Developer
+### Junior Full-Stack Developer
 
 ---
 
@@ -13,18 +13,25 @@
 ---
 
 ### Briefly About Myself:
+Previous work experience:<br>
+- Before web development I worked in customer service, where I’ve overcome my social anxiety and leveled up my English while working with English-speaking clients :)<br>
+- Currently working as a Junior Full-Stack Developer at a small company<br>
 
 My soft skills:<br>
 - inquisitive & motivated<br>
 I am truly passionate about web development. Because I love challenges, I have a steady source of motivation that drives me to do my best.<br>
 - meticulous<br>
-I also see myself as a highly organized person. I always take notes and use a series of tools to help myself stay on top of deadlines. I like to keep a clean workspace and create a logical filing method so I can always find what I need. I find this increases efficiency and helps the rest of the team stay on track, too. In my last group project with my study buddies, I used Agile to increase our efficiency and productivity.
+I also see myself as a highly organized person. I always take notes and use a series of tools to help myself stay on top of deadlines. I like to keep a clean workspace and create a logical filing method so I can always find what I need. I find this increases efficiency and helps the rest of the team stay on track, too.
 - cooperative<br>
 - open-minded<br>
 
-As for my previous work experience: most of the time I worked in customer service, where I’ve overcome my social anxiety and leveled up my English while working with English-speaking clients :)
+My major goal is to grow into a senior developer role one day and I'll do my best to achieve it!
 
-My my major goal is to become a proficient Frontend Developer and I'll do my best to achieve it!
+---
+
+### Education:
+
+- Bachelor of Software Engineering (in progress) - Tomsk State University of Control Systems and Radioelectronics
 
 ---
 
@@ -33,10 +40,15 @@ My my major goal is to become a proficient Frontend Developer and I'll do my bes
 - HTML5
 - CSS3, SASS/SCSS
 - JavaScript Basics
+- TypeScript Basics
 - React Basics
-- Git, GitHub
-- VS Code
-- Agile
+- Vue 2 & Vue 3
+- PHP
+- SQL
+- Laravel
+- Git, GitHub, GitLab
+- VS Code, PHPStorm
+- Agile, Scrum
 
 ---
 
@@ -73,7 +85,7 @@ function getValue(hexColor) {
 
 ### Courses:
 
-- [ITGirlsSchool](https://itgirlschool.com/) Frontend Course (in progress)<br>
+- [ITGirlsSchool](https://itgirlschool.com/) Frontend Course (done)<br>
 - RS School Course «JavaScript/Front-end. Stage 1» (in progress)
 
 ---
